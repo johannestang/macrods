@@ -1,0 +1,8 @@
+Package: macrods
+Title: A collection of macroeconomic datasets.
+Version: 0.1.0
+Authors@R: person("Johannes Tang", "Kristensen", , "johannes@sam.sdu.dk", role = c("aut", "cre"))
+Description: A collection of macroeconomic datasets.
+Depends: R (>= 3.0.0)
+License: MIT + license
+LazyData: true
